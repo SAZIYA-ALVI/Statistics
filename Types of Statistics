@@ -1,1 +1,55 @@
 
+# Types of Statistics
+
+Statistics is used to collect, organize, analyze, and understand data.
+
+## Types of Statistics
+
+There are two main types of statistics:
+
+### 1. Descriptive Statistics
+
+Descriptive statistics is used to **summarize and describe data**.
+
+Examples:
+
+* Mean
+* Median
+* Mode
+* Range
+* Variance
+* Standard Deviation
+* Charts and Tables
+
+**Example:**
+Finding the average marks of students in a class.
+
+### 2. Inferential Statistics
+
+Inferential statistics is used to **make conclusions or predictions about a larger population using sample data**.
+
+Examples:
+
+* Hypothesis Testing
+* Confidence Intervals
+* Estimation
+* Probability
+
+**Example:**
+Taking a sample of customers and using it to understand the behavior of all customers.
+
+## Simple Difference
+
+| Descriptive Statistics        | Inferential Statistics                 |
+| ----------------------------- | -------------------------------------- |
+| Describes the given data      | Makes conclusions from sample data     |
+| Summarizes data               | Predicts or estimates                  |
+| Uses tables, graphs, averages | Uses hypothesis testing and estimation |
+
+## Purpose
+
+This folder is created to learn the basic concepts of **Statistics for Data Analytics**.
+
+## Author
+
+**Saziya Alvi**
