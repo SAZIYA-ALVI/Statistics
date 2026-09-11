@@ -1,1 +1,66 @@
+# Types of Sampling Techniques
+There are 2 types of Sampling Techniques
+1.Probability Sampling
+2.Non PProbability Sampling
+
+#Probability Sampling
+
+1.Simple Random Sampling 
+Every member of the population has an equal chance of being selected.
+Example - Selecting pepole randomly 
+
+2.Systematic Sampling 
+Select every nth member of the population after a random starting point.
+Example - Airport -> Credit Card- pitch 5th person , 10th person
+
+3.Feedback Survey
+Selected every 11th member.
+Example - Feedback Survay 
+
+4.Stratified Sampling 
+Divide the population into Strata (group) based on specific characteristics and then randomly 
+sampling from each strata.
+Example - Divide employee by dept and then randomly select a proposnal number each dept to form a survey sample
+
+5.Cluster Sampling 
+Divide the population into clusters, randomly selecting clusters then sampling all the member from the selected clusters
+Example - Randomly selecting several school from a distinct , and surveying all teachers within those schools
+
+6.Multi Stage Sampling 
+Combining several sampling method usually involves selecting clusters, then randomly sampling within those cluster
+Example - Randomly selecting cities , each selected city randomly selecting households to survey
+
+# Non Probability Sampling
+Select individiual who are easiest to reach 
+Example - Surveying people at mall
+
+1.Convenience Sampling 
+Selecting individual who are easiest to reach.
+
+2.Judgmental (Purposive Sampling)
+select indinvidual based on the reaserchers judgement 
+Example - choose in a fields to participate{Data Science}
+
+3.Snowball Sampling 
+Exixting study Subject recruit future subjects from among their acquiantanes.
+Example - Survey member of a rare disease.
+
+4.Quota Sampling 
+Age, group, gender, caste.
+
+SAMPLING TECHNIQUE
+Selecting the sampling technique depending on usecases
+
+
+
+
+
+
+
+
+
+
+
+
+
 
