@@ -1,1 +1,60 @@
 
+This folder contains basic concepts of **Scales of Measurement** used in Statistics and Data Analytics.
+
+# Scales of Measurement of Data
+The scales of measurement describes the nature of information within the values assigned to variables
+
+## Types of Measurement Scales
+1. Nominal Scale
+2. Ordinal Scale
+3. Interval Scale
+4. Ratio Scale
+
+### 1. Nominal Scale
+
+Used to represent **categories or names**.
+
+**Example:** Gender, City, Blood Group
+
+### 2. Ordinal Scale
+
+Data has **categories with an order or ranking**.
+
+**Example:** Low, Medium, High
+**Example:** 1st, 2nd, 3rd
+
+### 3. Interval Scale
+
+Data has **equal intervals**, but there is no true zero.
+
+**Example:** Temperature in Celsius
+
+### 4. Ratio Scale
+
+Data has **equal intervals and a true zero**.
+
+**Example:** Age, Height, Weight, Salary
+
+## Simple Difference
+
+| Scale    | Main Feature    | Example     |
+| -------- | --------------- | ----------- |
+| Nominal  | Categories      | City        |
+| Ordinal  | Order/Ranking   | Rating      |
+| Interval | Equal intervals | Temperature |
+| Ratio    | True zero       | Age, Salary |
+
+## Purpose
+
+The purpose of this folder is to understand different **Scales of Measurement** and their importance in **Statistics and Data Analytics**.
+
+## Topics
+
+* Nominal Scale
+* Ordinal Scale
+* Interval Scale
+* Ratio Scale
+
+## Author
+
+**Saziya Alvi**
