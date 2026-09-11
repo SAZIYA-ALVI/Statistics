@@ -1,1 +1,43 @@
+# Population & Sample Data
+
+This folder contains basic concepts and examples of **Population and Sample Data** used in Statistics and Data Analytics.
+
+## Topics Covered
+
+### 1. Population
+
+Population means the **complete group of data** that we want to study.
+
+**Example:**
+All students in a college.
+
+### 2. Sample
+
+Sample means a **small part of the population** selected for analysis.It is a subset of population data.
+
+**Example:**
+100 students selected from a college.
+
+## Simple Difference
+
+| Population              | Sample                          |
+| ----------------------- | ------------------------------- |
+| Complete group          | Small part of the group         |
+| Usually larger          | Usually smaller                 |
+| More difficult to study | Easier to study                 |
+| Example: All customers  | Example: 500 selected customers |
+
+## Purpose
+
+The purpose of this folder is to understand the basic concepts of **Population and Sample Data** and their use in **Statistics and Data Analytics**.
+
+## Technologies
+
+* Python
+* Statistics
+* Data Analytics
+
+## Author
+
+**Saziya Alvi**
 
