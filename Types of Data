@@ -1,1 +1,65 @@
 
+# Types of Data
+
+This folder contains basic concepts of **Types of Data** used in Statistics and Data Analytics.
+
+## Types of Data
+
+### 1. Qualitative Data
+
+Qualitative data describes **categories or qualities**.
+
+**Examples:**
+
+* Gender
+* Color
+* City
+* Product Category
+
+### 2. Quantitative Data
+
+Quantitative data contains **numbers that can be measured or counted**.
+
+**Examples:**
+
+* Age
+* Salary
+* Height
+* Sales
+
+## Quantitative Data Types
+
+### Discrete Data
+
+Discrete data contains **countable values**.
+
+**Example:** Number of students, number of products.
+
+### Continuous Data
+
+Continuous data can have **any value within a range**.
+
+**Example:** Height, weight, temperature.
+
+## Simple Difference
+
+| Type         | Meaning              | Example            |
+| ------------ | -------------------- | ------------------ |
+| Qualitative  | Categories/qualities | City, Color        |
+| Quantitative | Numerical data       | Age, Salary        |
+| Discrete     | Countable numbers    | Number of students |
+| Continuous   | Measurable values    | Height, Weight     |
+
+## Purpose
+
+The purpose of this folder is to understand different **Types of Data** and their importance in **Statistics and Data Analytics**.
+
+## Technologies
+
+* Python
+* Statistics
+* Data Analytics
+
+## Author
+
+**Saziya Alvi**
