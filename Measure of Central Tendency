@@ -1,1 +1,69 @@
+# Measure of Central Tendency
+
+
+## What is Central Tendency?
+
+Central tendency is used to find the **central or typical value** of a dataset.
+
+There are three main measures:
+
+### 1. Mean
+
+Mean is the **average value** of the data.
+
+**Formula:**
+
+`Mean = Sum of all values / Number of values`
+
+**Example:**
+Data: 10, 20, 30
+Mean = (10 + 20 + 30) / 3 = **20**
+
+### 2. Median
+
+Median is the **middle value** when data is arranged in ascending or descending order.
+
+**Example:**
+Data: 10, 20, 30
+Median = **20**
+
+### 3. Mode
+
+Mode is the value that **appears most frequently** in the data.
+
+**Example:**
+Data: 10, 20, 20, 30
+Mode = **20**
+
+## Simple Difference
+
+| Measure | Meaning             | Example |
+| ------- | ------------------- | ------- |
+| Mean    | Average value       | 20      |
+| Median  | Middle value        | 20      |
+| Mode    | Most frequent value | 20      |
+
+## Use in Data Analytics
+
+Measures of central tendency help analysts to:
+
+* Understand data quickly
+* Summarize large datasets
+* Compare different datasets
+* Find typical values
+
+## Purpose
+
+The purpose of this folder is to understand **Mean, Median, and Mode** and their use in **Statistics and Data Analytics**.
+
+## Topics Covered
+
+* Mean
+* Median
+* Mode
+* Central Tendency
+
+## Author
+
+**Saziya Alvi**
 
