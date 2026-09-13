@@ -1,1 +1,71 @@
 
+# Measure of Central Dispersion
+
+This folder contains basic concepts of **Measures of Dispersion** used in Statistics and Data Analytics.
+
+## What is Dispersion?
+
+Dispersion shows **how much the data values are spread or scattered** around the central value.
+
+## Main Measures of Dispersion
+
+### 1. Range
+
+Range is the difference between the **highest and lowest value**.
+
+**Formula:**
+
+`Range = Maximum Value - Minimum Value`
+
+### 2. Variance
+
+Variance shows how far the data values are spread from the **mean**.
+
+A higher variance means the data is more spread out.
+
+### 3. Standard Deviation
+
+Standard deviation shows the **average amount of variation** in the data.
+
+A higher standard deviation means the data values are more spread out.
+
+### 4. Interquartile Range (IQR)
+
+IQR measures the spread of the **middle 50% of the data**.
+
+**Formula:**
+
+`IQR = Q3 - Q1`
+
+## Simple Difference
+
+| Measure            | Meaning                                        |
+| ------------------ | ---------------------------------------------- |
+| Range              | Difference between maximum and minimum         |
+| Variance           | Measures data spread using squared differences |
+| Standard Deviation | Measures the amount of variation               |
+| IQR                | Spread of the middle 50%                       |
+
+## Use in Data Analytics
+
+Dispersion helps Data Analysts to:
+
+* Understand data variability
+* Identify unusual values
+* Compare datasets
+* Understand how spread out the data is
+
+## Purpose
+
+The purpose of this folder is to understand **Measures of Dispersion** and their importance in **Statistics and Data Analytics**.
+
+## Topics Covered
+
+* Range
+* Variance
+* Standard Deviation
+* Interquartile Range (IQR)
+
+## Author
+
+**Saziya Alvi**
