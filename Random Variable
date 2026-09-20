@@ -1,1 +1,80 @@
 
+# Random Variable
+
+This folder contains my learning notes and practice material on **Random Variables** in Statistics.
+
+## What is a Random Variable?
+
+A **Random Variable** is a variable that assigns a numerical value to the outcome of a random experiment.
+
+### Example
+
+If a coin is tossed:
+
+* Head → 1
+* Tail → 0
+
+Here, the value assigned to the outcome is a random variable.
+
+## Types of Random Variables
+
+### 1. Discrete Random Variable
+
+A discrete random variable takes **countable values**.
+
+**Examples:**
+
+* Number of students in a class
+* Number of heads in coin tosses
+* Number of defective products
+
+### 2. Continuous Random Variable
+
+A continuous random variable can take **any value within a range**.
+
+**Examples:**
+
+* Height
+* Weight
+* Temperature
+* Time
+
+## Discrete vs Continuous Random Variable
+
+| Discrete                     | Continuous                    |
+| ---------------------------- | ----------------------------- |
+| Countable values             | Any value within a range      |
+| Usually obtained by counting | Usually obtained by measuring |
+| Example: Number of students  | Example: Height               |
+
+## Probability Distribution
+
+A probability distribution shows how probabilities are assigned to the possible values of a random variable.
+
+### Discrete Random Variable
+
+For a discrete random variable, we use a **Probability Mass Function (PMF)**.
+
+### Continuous Random Variable
+
+For a continuous random variable, we use a **Probability Density Function (PDF)**.
+
+## Key Concepts
+
+* Random Variable
+* Discrete Random Variable
+* Continuous Random Variable
+* Probability Distribution
+* PMF
+* PDF
+* Expected Value
+* Variance
+* Standard Deviation
+
+## Purpose
+
+The purpose of this folder is to understand the basic concepts of **Random Variables and Probability Distributions** and build a strong foundation in Statistics for **Data Analytics and Machine Learning**.
+
+## Author
+
+**Saziya Alvi**
